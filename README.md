@@ -36,7 +36,7 @@ The transaction list is rebuilt dynamically, and transactions can be removed ins
 Currency formatting:
 Uses Intl.NumberFormat for proper USD currency formatting.
 
-🎓 What I Learned
+🎓 What I Learned?
 
 Managing application state with arrays and LocalStorage
 
